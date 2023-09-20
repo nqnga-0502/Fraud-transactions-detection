@@ -6,7 +6,6 @@
 ## About Project
 <br>
 Target: To build a fraud detection system using machine learning models
-<br>
   - Logistic Regression<br>
   - Decision Tree<br>
   - Random Forest<br>

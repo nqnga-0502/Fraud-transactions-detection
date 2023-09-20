@@ -9,6 +9,7 @@ Target: To build a fraud detection system using machine learning models
   - Logistic Regression
   - Decision Tree
   - Random Forest
+<br>
 
 ## Result
 The balance accuracy of Decision Tree and Random Forest model are much higher than Logistic Regression. 
